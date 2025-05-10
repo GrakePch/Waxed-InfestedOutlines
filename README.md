@@ -1,6 +1,6 @@
 # Waxed & Infested Outlines
 
-Highlight Waxed and infested blockes with inverted hull outlines! Resourcepack compatible!
+Highlight waxed and infested blocks with inverted hull outlines! Resourcepack compatible!
 
 ---
 
