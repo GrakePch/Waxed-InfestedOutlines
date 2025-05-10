@@ -1,0 +1,10 @@
+{
+    "pack": {
+      "pack_format": 15,
+      "description": "§6Waxed§7 & §4Infested§7 Outlines\n§fJE 1.20+§r By GrakePCH",
+      "supported_formats": {
+        "min_inclusive": 15,
+        "max_inclusive": 999
+      }
+    }
+  }

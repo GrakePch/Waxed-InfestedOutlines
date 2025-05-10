@@ -1,0 +1,9 @@
+{
+  "parent": "item/stairs_outline",
+  "textures": {
+    "bottom": "minecraft:block/cut_copper",
+    "top":    "minecraft:block/cut_copper",
+    "side":   "minecraft:block/cut_copper",
+    "outline": "minecraft:block/honey_block_top"
+  }
+}

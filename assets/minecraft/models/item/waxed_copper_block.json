@@ -1,0 +1,7 @@
+{
+	"parent": "item/cube_all_outline",
+  "textures": {
+    "all": "minecraft:block/copper_block",
+    "outline": "minecraft:block/honey_block_top"
+  }
+}

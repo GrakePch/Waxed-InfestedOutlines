@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/waxed_copper_block",
+  "textures": {
+    "all": "create:block/copper/copper_shingles"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/infested_stone",
+  "textures": {
+    "all": "block/cobblestone"
+  }
+}

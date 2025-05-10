@@ -1,0 +1,7 @@
+{
+  "parent": "item/template_door",
+  "textures": {
+    "top": "minecraft:block/exposed_copper_door_top",
+    "bottom": "minecraft:block/exposed_copper_door_bottom"
+  }
+}

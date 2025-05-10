@@ -1,0 +1,1 @@
+7z a -tzip "WaxedAndInfested_1.20+.zip" "assets" "pack.mcmeta" "pack.png" "LICENSE"
